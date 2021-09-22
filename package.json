@@ -1,0 +1,26 @@
+{
+  "name": "weather_app-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial week 3 implementation and usage of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diloma7/Weather_App-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diloma7/Weather_App-tutorial/issues"
+  },
+  "homepage": "https://github.com/diloma7/Weather_App-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "request": "^2.88.2"
+  }
+}
