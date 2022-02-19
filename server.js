@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const apiKey = process.env.API_KEY;
-const port = 3030
+const port = process.env.PORT;
 const bodyParser = require('body-parser');
 const request = require('request')
 
